@@ -1,11 +1,11 @@
 {
-  "name": "sk-plugin-python-demo",
+  "name": "sk-bmp390-python",
   "version": "1.0.0",
-  "description": "Demo Signal K Node server plugin that uses Python",
+  "description": "Signal K Node server plugin to read BM3xx sensors",
   "main": "index.js",
   "keywords": [
-    "signalk-node-server-plugin"
+    "signalk-bmp390-python"
   ],
-  "author": "Teppo Kurki <teppo.kurki@iki.fi> (https://github.com/tkurki)",
+  "author": "Michael Haberler <git@mah.priv.at>, based on work by Teppo Kurki <teppo.kurki@iki.fi> (https://github.com/tkurki)",
   "license": "Apache-2.0"
 }
